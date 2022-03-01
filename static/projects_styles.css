@@ -1,0 +1,42 @@
+/*Navbar*/
+
+
+/*Introduction*/
+main{
+    font-family:  'Poppins' ,'Roboto Slab' ,  serif ;
+}
+.intro-background{
+    background-color: #FFD369 ;
+}
+.intro-heading{
+  font-size: 100px ;
+  font-weight : 400 ;
+}
+
+/*Content*/
+.container{
+   padding : 40px 20px 40px 20px   ;
+}
+
+/*ending*/
+.ending_page{
+    padding-top  : 25px ;
+    background-color:rgb(238, 238, 238)  ;
+    color : rgb(34, 40, 49);
+    font-size: 25px ;
+    justify-content: center;
+    padding-bottom: 25px ;
+}
+.links_network{
+  padding :10px ;
+}
+.link:hover{
+   color:rgb(255, 211, 105) ;
+}
+.ending_heading{
+  font-size:45px ;
+  }
+.ending_main{
+  font-size : 20px ;
+  padding : 15px 35px 15px 35px  ;
+}

@@ -1,0 +1,162 @@
+
+/*Body*/
+
+.overall{
+  font-family:  'Poppins' ,'Roboto Slab' ,  serif ;
+  color: rgb(238, 238, 238) ;
+  background-image : url('images/mountains3.jpg');
+  background-size: 2090px;
+
+}
+.overall::-webkit-scrollbar {
+  display: none;
+}
+
+
+/*Navbar*/
+
+.brand{
+  padding-left : 30px ;
+}
+.navbar_placements{
+  padding-right : 10px ;
+}
+
+/*Front Page*/
+
+.front_pg{
+  color: rgb(238, 238, 238) ;
+  position : relative ;
+  top : 200px ;
+  padding-bottom: 200px ;
+
+}
+.border_line{
+   position : relative ;
+   border-top : solid ;
+   border-bottom : solid ;
+   padding : 20px ;
+   padding-left : 80px ;
+   padding-right: 80px;
+}
+.main_heading{
+  font-size: 140px ;
+  font-weight:bold;
+  margin: 20px ;
+  justify-content: center;
+
+}
+
+.sub_heading{
+  font-size: 25px;
+  font-weight: lighter;
+  padding : 20px ;
+}
+
+/*Introduction*/
+.Introduction{
+  padding: 100px ;
+  margin-top : 200px  ;
+  background-color : rgb(255, 211, 105) ;
+  color : rgb(57, 62, 70);
+  overflow : hidden ;
+
+}
+
+.intro_title{
+  color: rgb(34, 40, 49) ;
+  font-size: 100px ;
+  font-weight : 400 ;
+}
+
+
+.intro_title:hover {
+  color : rgb(238, 238, 238) ;
+}
+.intro_content{
+  padding: 20px ;
+  font-size: 25px ;
+  font-weight: lighter;
+}
+
+.logos {
+  font-size: 90px ;
+  padding : 90px ;
+  color : rgb(57, 62, 70);
+}
+i:hover{
+  color : rgb(238, 238, 238) ;
+}
+
+@media screen and (max-width : 800px) {
+  i{
+    padding-top:10px ;
+    padding-bottom : 10px ;
+  }
+}
+
+/*Contents*/
+.outer_introduction:hover{
+  color: darkgray;
+}
+.inner_introduction:hover {
+  color : darkgrey ;
+}
+.outer_contents{
+  background-color:rgb(34, 40, 49) ;
+
+}
+.outer_introduction{
+  background-color:rgb(34, 40, 49) ;
+  color : rgb(238, 238, 238);
+  overflow : hidden ;
+  font-size: 80px ;
+  padding-top : 60px ;
+}
+.inner_introduction{
+  background-color:rgb(34, 40, 49) ;
+  color : rgb(238, 238, 238);
+  overflow : hidden ;
+  font-size: 25px ;
+}
+
+.contents_image{
+  background-color:rgb(34, 40, 49) ;
+  max-width: 520px ;
+  }
+
+/*Project*/
+.Projects{
+  background-color: rgb(57, 62, 70) ;
+  color : rgb(238, 238, 238) ;
+}
+.outer_project{
+  background-color:rgb(57, 62, 70) ;
+}
+.inner_project{
+  background-color:rgb(57, 62, 70) ;
+}
+
+/*Ending Page*/
+
+.ending_page{
+    padding-top  : 100px ;
+    background-color:rgb(238, 238, 238)  ;
+    color : rgb(34, 40, 49);
+    font-size: 25px ;
+    justify-content: center;
+    padding-bottom: 100px ;
+}
+.links_network{
+  padding :10px ;
+}
+.link:hover{
+   color:rgb(255, 211, 105) ;
+}
+.ending_heading{
+  font-size:55px ;
+  }
+.ending_main{
+  font-size : 25px ;
+  padding : 15px 35px 15px 35px  ;
+}

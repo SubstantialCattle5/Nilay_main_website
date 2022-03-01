@@ -1,0 +1,46 @@
+main{
+    font-family:  'Poppins' ,'Roboto Slab' ,  serif ;
+}
+/*Heading*/
+.intro-heading{
+    font-size: 130px ;
+    font-weight: 600 ;
+}
+.intro-background{
+    background-color: rgb(255, 211, 105) ;
+}
+
+/*Contents*/
+.content{
+    margin: 40px 20px 40px 20px ;
+
+}
+
+.card-header{
+    color: #EEEEEE;
+    background-color: #393E46;
+}
+
+/*Ending Page*/
+
+.ending_page{
+    padding-top  : 100px ;
+    background-color:rgb(238, 238, 238)  ;
+    color : rgb(34, 40, 49);
+    font-size: 25px ;
+    justify-content: center;
+    padding-bottom: 100px ;
+}
+.links_network{
+    padding :10px ;
+}
+.link:hover{
+    color:rgb(255, 211, 105) ;
+}
+.ending_heading{
+    font-size:55px ;
+}
+.ending_main{
+    font-size : 25px ;
+    padding : 15px 35px 15px 35px  ;
+}

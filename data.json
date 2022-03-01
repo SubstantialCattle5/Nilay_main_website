@@ -1,0 +1,26 @@
+{
+    "AMAZON_BOOK_PRICE_WEBSITE": [
+        "../static/images/amazon_book.png",
+        "A website which mails the user when a selected book is cheaper."
+    ],
+    "COOKIE_CLICKER_BOT": [
+        "../static/images/cookie.png",
+        "A script created to automate the cookie clicker game."
+    ],
+    "Pomodoro_Timer": [
+        "../static/images/PomodoroTimer.png",
+        "Timer for people following the Pomodoro Technique"
+    ],
+    "TURTLE_CROSSING": [
+        "../static/images/turtle.png",
+        "This is a Mini-Game in Python based on OOPs and the Turtle module . The goal of this game is to help a turtle to cross the street."
+    ],
+    "Flight Price Checker": [
+        "../static/images/mail.png",
+        "It is a program created to check the prices of flight for next 6 months from Mumbai to pre-determined locations."
+    ],
+    "PASSWORD MANAGER": [
+        "../static/images/PasswordManager.png",
+        "GUI application to store, search and create passwords for the user"
+    ]
+}
